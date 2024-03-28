@@ -1,7 +1,7 @@
 # ClinicalTrials-Scrapper
 **Scrapper para obter informações do Clinical Trials e outros sites através de LLM**
 
-Scrapper para coletar informações de sites, como o Clinical Trials, e através da [roberta-base-squad2](https://huggingface.co/deepset/roberta-base-squad2) (LLM) para perguntas-repostas executado localmente obter os requisitos de estudos clínicos a partir de dados não-estruturados em texto livre.
+Scrapper para coletar informações de sites, como o Clinical Trials, e através da [roberta-base-squad2](https://huggingface.co/deepset/roberta-base-squad2) (LLM para perguntas-repostas) executado localmente obter os requisitos de estudos clínicos e informações a partir de dados não-estruturados em texto livre.
 
 Em um primeiro momento a ferramenta solicita uma fonte de dados.
 Atualmente é capaz de acessar os requerimentos do Clinical Trials, textos da Wikipedia sobre um termo, e sites sem uma estrutura específica.
